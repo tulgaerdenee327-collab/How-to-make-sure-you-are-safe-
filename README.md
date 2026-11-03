@@ -9,4 +9,4 @@ If you are reading this you are lucky
 -Second, look at your rooms 
 -Third, if there is not abnormal things get out of your house 
 -AND Even if you are not at your home if you see abnormal things 
-<h5><a href=" "> Click here</a></h5>
+<h2<a href="main.htm"> Click here</a></h2>
